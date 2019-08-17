@@ -9,3 +9,5 @@ def multitwo(num):
 
 if __name__ == "__main__":
     print(multitwo(8))
+    
+print("Check pull request")
